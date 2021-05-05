@@ -5,7 +5,9 @@ h1{
     text-align: center;
     background-color: rgb(224, 121, 219);
 }
-
+.main-test{
+    border: 3px solid #000000cc;
+    
 
 img{
     display: flex;
